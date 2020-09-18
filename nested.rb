@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-"grace_hopper"
+return "grace_hopper"
 
 end
 
